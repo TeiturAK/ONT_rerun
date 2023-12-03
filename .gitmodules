@@ -1,0 +1,3 @@
+[submodule "rerio"]
+	path = rerio
+	url = https://github.com/nanoporetech/rerio
